@@ -8,4 +8,4 @@ Afrikaans, Arabic, Bulgarian, Bengali, Bosnian, Catalan, Czech, Welsh, Danish, G
 ![How to get token](Instructions/how_to_get_token.png)
 
 # How to get nickname
-![How to get nickname](Instructions/how_to_get_nickname.png)
+![How to get nickname](Instructions/how_to_get_nickname.PNG)
